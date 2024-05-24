@@ -20,7 +20,7 @@
        where ${NAME} is of the form "[rgb|depth]_[serial#]", e.g. "depth_B00367707227042B".
        See camera_info_manager docs for calibration URL details. -->
   <!-- <arg name="rgb_camera_info_url"   default="package://configs/orbbec_astra_s_rgb_camera_info.yaml"/> -->
-  <arg name="rgb_camera_info_url"   default="package://configs/orbbec_astra_s_rgb_camera_info.yaml"/>
+  <arg name="rgb_camera_info_url"   default=""/>
   <arg name="depth_camera_info_url" default="" />
 
   <!-- Hardware depth registration -->
