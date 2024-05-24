@@ -22,9 +22,6 @@
   <arg name="rgb_camera_info_url"   default="package://configs/orbbec_astra_s_rgb_camera_info.yaml"/>
   <arg name="depth_camera_info_url" default="" />
 
-  <!-- <arg name="rgb_camera_info_url" default="package://robot_bringup/config/sensors/camera/orbbec/orbbec_$(arg calibration)_rgb_camera_info.yaml" /> -->
-  
-
   <!-- Hardware depth registration -->
   <arg name="depth_registration" default="false" />
 
