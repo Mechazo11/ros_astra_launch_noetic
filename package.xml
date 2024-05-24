@@ -6,6 +6,7 @@
   <license>BSD</license>
 
   <maintainer email="cjwu@orbbec3d.com">Sayter99</maintainer>
+  <maintainer email="azmyin12@gmail.com">Mechazo11</maintainer>
 
   <buildtool_depend>catkin</buildtool_depend>
 
