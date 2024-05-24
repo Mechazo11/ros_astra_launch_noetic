@@ -1,7 +1,11 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Changelog for package astra_launch
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+0.4.0 (05/24/24)
+Made it compatible with [ros_astra_camera_noetic](https://github.com/Mechazo11/ros_astra_camera_noetic/tree/package-from-robotnik) package based on the modification done by Robotnik
 0.3.0 (2019-03-14)
+* Contributors: Azmyin M. Kamal
+
 -----------
 Include UVC camera launch
 
