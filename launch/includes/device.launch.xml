@@ -13,7 +13,7 @@
   <arg name="rgb_camera_info_url" />
   <arg name="depth_camera_info_url" />
 
-  <arg name="depth_registration" default="true" />
+  <arg name="depth_registration" default="false" />
   <arg name="color_depth_synchronization" default="false" />
   <arg name="auto_exposure" default="true" />
   <arg name="auto_white_balance" default="true" />
